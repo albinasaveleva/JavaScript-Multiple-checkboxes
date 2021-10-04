@@ -1,1 +1,1 @@
-# JavaScript-Multiple-checkboxes
+# Demo: https://albinasaveleva.github.io/JavaScript-Multiple-checkboxes/
